@@ -44,7 +44,6 @@
 - 🔗 LinkedIn: [Ananya Addisu](https://linkedin.com/in/ananyaaddisu)
 - 🌐 [Portfolio Coming Soon!]
 
-![Ananya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ananya-Addisu&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya-Addisu&layout=compact&theme=radical)
 
 ---
