@@ -42,7 +42,6 @@
 ## 📫 Connect With Me
 - ✉️ Email: [sidraq@codeday.org](mailto:sidraq@codeday.org)
 - 🔗 LinkedIn: [Ananya Addisu](https://linkedin.com/in/ananyaaddisu)
-- 🌐 [Portfolio Coming Soon!]
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya-Addisu&layout=compact&theme=radical)
 
