@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Ananya Addisu Workineh
- 
+
 ## 👨‍💻 About Me 
 - 🎓 **Senior Software Developer | ML Engineer | Game Developer | Blockchain Developer | Web Developer | VFX and SFX Artist**.
 - 🌟 Passionate about solving complex problems, building innovative systems, and mentoring the next generation of developers.
@@ -8,7 +8,18 @@
 
 ## 🛠 Skills & Technologies
 ### Programming Languages
-- **LAMP**, **Rust**, **Flutter**, **JavaScript**, **Swift**, **Java**, **Git**, **Python**, **SQL**, **C++**, **C**, **F#**.
+![LAMP](https://img.shields.io/badge/-LAMP-black?style=flat-square)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![F#](https://img.shields.io/badge/-F%23-378BBA?style=flat-square&logo=fsharp&logoColor=white)
 
 ### Development Areas
 - **AI Development**, **Software Development**, **Web Development**, **Game Development**.
