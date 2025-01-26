@@ -8,25 +8,30 @@
 
 ## 🛠 Skills & Technologies
 ### Programming Languages
-![LAMP](https://img.shields.io/badge/-LAMP-black?style=flat-square)
+![LAMP Stack](https://img.shields.io/badge/-LAMP_Stack-32CD32?style=flat-square&logo=linux&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![F#](https://img.shields.io/badge/-F%23-378BBA?style=flat-square&logo=fsharp&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Rell](https://img.shields.io/badge/-Rell-6A1B9A?style=flat-square)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 ### Development Areas
 - **AI Development**, **Software Development**, **Web Development**, **Game Development**.
 - **Cybersecurity**, **RESTful APIs**, **iOS/Android App Development**, **Database Management**.
 
 ### Tools & Frameworks
-- **TensorFlow**, **PyTorch**, **NLP Technologies**, **Cybersecurity Tools**.
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+**TensorFlow**, **PyTorch**, **NLP Technologies**, **Cybersecurity Tools**.
 
 ## 🌟 Experience
 - **CEO, Sidraq Production (2023–Present):**
@@ -57,4 +62,4 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya-Addisu&layout=compact&theme=radical)
 
 ---
-🌟 **“Code is not just for machines to execute, but for humans to read and collaborate.”**
+💻 **"Talk is cheap. Show me the code."** - Linus Torvalds
