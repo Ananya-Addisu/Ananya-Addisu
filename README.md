@@ -4,7 +4,7 @@
 - 🎓 **Senior Software Developer | ML Engineer | Game Developer | Blockchain Developer | Security Analyst and Forensicator | Web Developer | VFX and SFX Artist**.
 - 🌟 Passionate about solving complex problems, building innovative systems, and mentoring the next generation of developers.
 - 📚 Currently pursuing a **Bachelor of Science in Software Engineering** at Bahir Dar Institute of Technology (2023–2028).
-- 🌍 Based in **Bahir Dar, Ethiopia**. 
+- 🌍 Based in **Ethiopia**. 
 
 ## 🛠 Skills & Technologies
 ### Programming Languages
