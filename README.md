@@ -26,7 +26,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 ### Development Areas
-- **AI Development**, **Software Development**, **Web Development**, **Game Development**.
+- **AI Development**, **Blockchain Development**, **Software Development**, **Web Development**, **Game Development**.
 - **Cybersecurity**, **RESTful APIs**, **iOS/Android App Development**, **Database Management**.
 
 ### Tools & Frameworks
