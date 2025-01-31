@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Ananya Addisu Workineh
+<div align="center">
+  # 👋 Hi, I'm Ananya Addisu Workineh
+</div>
 
 ## 👨‍💻 About Me
 - 🎓 **Senior Software Developer | ML Engineer | Game Developer | Blockchain Developer | Security Analyst and Forensicator | Web Developer | VFX and SFX Artist**. 
