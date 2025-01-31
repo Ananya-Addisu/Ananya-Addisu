@@ -1,5 +1,5 @@
 <div align="center">
-  # 👋 Hi, I'm Ananya Addisu Workineh
+  <h1><bold>👋 Hi, I'm Ananya Addisu Workineh</bold></h1>
 </div>
 
 ## 👨‍💻 About Me
