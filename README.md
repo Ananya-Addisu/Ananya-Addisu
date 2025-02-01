@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="color:red;">
   <h1><bold>👋 Hi, I'm Ananya Addisu Workineh</bold></h1>
 </div>
 
