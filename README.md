@@ -49,7 +49,7 @@
   - Specialized in incident response and network security.
 - **Amazon Internship (2023):**
   - Contributed to algorithm development and team management.
-- **Google Summer of Code (2022):**
+- **Google Summer of Code Internship (2022):**
   - Focused on cybersecurity and open-source contributions.
 - **SANS Institute Internship (2022):**
   - Developed threat intelligence and vulnerability management skills.
