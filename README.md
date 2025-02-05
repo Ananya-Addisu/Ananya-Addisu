@@ -18,7 +18,6 @@
 
 ![LAMP Stack](https://img.shields.io/badge/-LAMP_Stack-32CD32?style=flat-square&logo=linux&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-<!-- ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) -->
 ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
@@ -33,14 +32,14 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-<!--![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)-->
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![NLP](https://img.shields.io/badge/-NLP-4CC417?style=flat-square&logo=natural-language-processing&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-228B22?style=flat-square&logo=cybersecurity&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-
+<!-- ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) -->
+<!--![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)-->
 ## 🚀 Notable Projects
 - **JERICHO:** Advanced Military Defense System.
 - **QelemeAI:** Academic chatbot for advanced knowledge assistance.
