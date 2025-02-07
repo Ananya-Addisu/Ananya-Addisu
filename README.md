@@ -8,7 +8,7 @@
 - 📚 Currently pursuing a **Bachelor of Science in Software Engineering** at Bahir Dar Institute of Technology (2023–2028).
 - 🌍 Based in **Ethiopia**. 
  
-### Development Areas
+### Development Areas 
 - **AI Development**, **Blockchain Development**, **Software Development**, **Web Development**, **Game Development**.
 - **Cybersecurity**, **RESTful APIs**, **iOS/Android App Development**, **Database Management**.
 
