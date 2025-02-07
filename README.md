@@ -2,7 +2,7 @@
   <h1><bold><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Ananya Addisu Workineh</bold></h1>
 </div>
  
-## 👨‍💻 About Me
+## 👨‍💻 About Me 
 - 🎓 **Senior Software Developer | ML Engineer | Game Developer | Blockchain Developer | Security Analyst and Forensicator | Web Developer | VFX and SFX Artist**. 
 - 🌟 Passionate about solving complex problems, building innovative systems, and mentoring the next generation of developers.
 - 📚 Currently pursuing a **Bachelor of Science in Software Engineering** at Bahir Dar Institute of Technology (2023–2028).
