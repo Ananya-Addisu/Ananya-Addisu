@@ -1,9 +1,9 @@
 <div align="center">
   <h1><bold><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Ananya Addisu Workineh</bold></h1>
 </div>
-<div align="center">
+<div align="center" style="text-style: bold;">
 <bold>Senior Software Developer | ML Engineer | Game Developer | Blockchain Developer | Security Analyst and Forensicator | Web Developer | VFX and SFX Artist. 
-🌍 Based in Ethiopia. </bold>
+</br>🌍 Based in Ethiopia. </bold>
 </div>
 
 ## 🛠 Languages & Technologies | Development Areas 
