@@ -55,8 +55,8 @@
 </p>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya-Addisu&layout=compact&theme=radical)
-[![Ananya's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?ananya-addisu=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/ananya-addisu/github-readme-stats#gh-dark-mode-only)
-[![Ananya's GitHub stats-Light](https://github-readme-stats.vercel.app/api?ananya-addisu=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/ananya-addisu/github-readme-stats#gh-light-mode-only)
+[![Ananya's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?ananya-addisu=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/username/github-readme-stats#gh-dark-mode-only)
+[![Ananya's GitHub stats-Light](https://github-readme-stats.vercel.app/api?ananya-addisu=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/username/github-readme-stats#gh-light-mode-only)
 
 ---
  while(!succeed) </br>
