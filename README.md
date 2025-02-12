@@ -3,7 +3,7 @@
 </div>
 <div align="center" style="text-style: bold;">
 <bold>Senior Software Developer | ML Engineer | Game Developer | Blockchain Developer | Security Analyst and Forensicator | Web Developer | VFX and SFX Artist. 
-</br>🌍 Based in Ethiopia. </bold>
+</br></br>🌍 Based in Ethiopia. </bold>
 </div>
 
 ## 🛠 Languages & Technologies | Development Areas 
