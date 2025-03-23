@@ -57,10 +57,10 @@
 
 ---
 ```cpp
- while(!succeed) </br>
- { </br>
-   tryAgain(); </br>
- }  </br>
+ while(!succeed) 
+ { 
+   tryAgain();
+ } 
 ```
  
 "AI will take over the world... right after it learns to center a div" 🤖  
