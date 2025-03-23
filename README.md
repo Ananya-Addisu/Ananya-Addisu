@@ -56,10 +56,11 @@
 </picture> -->
 
 ---
+```cpp
  while(!succeed) </br>
  { </br>
    tryAgain(); </br>
  }  </br>
-
+```
  
 "AI will take over the world... right after it learns to center a div" 🤖  
