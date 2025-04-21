@@ -5,9 +5,9 @@
 <bold>Senior Software Developer | ML Engineer | Game Developer | Blockchain Developer | Security Analyst and Forensicator | Web Developer | VFX and SFX Artist. 
 </div>
 
-## 🛠 Languages & Technologies | Development Areas 
-<p align="center">  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
-
+## Languages & Technologies | Development Areas 
+<!--<p align="left">   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>-->
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
@@ -19,7 +19,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-</p>
+
 **AI Development**, **Blockchain Development**, **Software Development**, **Web Development**, **Game Development**, **Cybersecurity**, **RESTful APIs**, **iOS/Android App Development**, **Database Management**.
 <!--![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)-->
 <!-- ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) -->
@@ -54,4 +54,3 @@
  } 
 ```
  
-"AI will take over the world... right after it learns to center a div" 🤖  
