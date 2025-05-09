@@ -26,7 +26,7 @@
 <!--![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)-->
 <h2 align="left">Most of my repositories are private and if there are any specific projects you'd like to see, contact me</h2>
 <p align="left">
-<a href="https://twitter.com/sidraq30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sidraq30" height="30" width="40" /></a>
+<a href="https://twitter.com/aniwkn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sidraq30" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ananyaaddisu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ananyaaddisu" height="30" width="40" /></a>
 <a href="https://instagram.com/aniwkn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aniwkn" height="30" width="40" /></a>
 <a href="https://discord.gg/aniwkn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1931" height="30" width="40" /></a>
