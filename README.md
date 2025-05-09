@@ -7,6 +7,7 @@
 
 ## Languages & Technologies | Development Areas 
 <!--<p align="left">   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>-->
+**AI Development**, **Blockchain Development**, **Software Development**, **Web Development**, **Game Development**, **Forensication**, **RESTful APIs**, **iOS/Android App Development**, **Database Management**.
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
@@ -20,7 +21,6 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
-**AI Development**, **Blockchain Development**, **Software Development**, **Web Development**, **Game Development**, **Forensication**, **RESTful APIs**, **iOS/Android App Development**, **Database Management**.
 <!--![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)-->
 <!-- ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) -->
 <!--![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)-->
