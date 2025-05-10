@@ -5,7 +5,7 @@
 <bold>Senior Software Developer | ML Engineer | Game Developer | Blockchain Developer | Security Analyst and Forensicator | Web Developer | VFX and SFX Artist. 
 </div>
 
-## Languages & Technologies | Development Areas 
+## Languages & Technologies
 <!--<p align="left">   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>-->
 <!--**AI Development**, **Blockchain Development**, **Software Development**, **Web Development**, **Game Development**, **Forensication**, **iOS/Android App Development**, **Database Management**.</br></br>-->
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
