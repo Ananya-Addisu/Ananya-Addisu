@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><bold><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Ananya</bold></h1>
+  <h1><bold><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello there, I'm Ananya</bold></h1>
 </div>
 <div align="center" style="text-style: bold;">
 <bold>Senior Software Developer | ML Engineer | Game Developer | Blockchain Developer | Security Analyst and Forensicator | Web Developer | VFX and SFX Artist. 
