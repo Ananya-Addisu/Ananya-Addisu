@@ -18,7 +18,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=ananya-addisu&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=ananya-addisu&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ananya-addisu&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<div align="center">![](https://github-readme-stats.vercel.app/api/top-langs/?username=ananya-addisu&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)</div>
 
 ---
 ```cpp
