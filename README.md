@@ -16,7 +16,9 @@
 </p>
 <h1 align="left">Most of my repositories are private and if there are any specific projects you'd like to see, contact me</h2>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya-Addisu&layout=compact&theme=dracula)
+![](https://github-readme-stats.vercel.app/api?username=ananya-addisu&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=ananya-addisu&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ananya-addisu&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
 ```cpp
