@@ -2,7 +2,8 @@
   <h1><bold><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello there, I'm Ananya<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Man Technologist Medium Skin Tone" width="25" height="25" /></bold></h1>
 </div>
 <div align="center" style="text-style: bold;">
-<bold>Senior Software Developer | ML Engineer | Game Developer | Blockchain Developer | Security Analyst and Forensicator | Web Developer | VFX and SFX Artist. 
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=ananya-addisu&label=Profile%20views&color=0e75b6&style=flat" alt="Ananya" /> </p>
+<bold>Senior Software Developer | AI Engineer | Game Developer | Blockchain Developer | Security Analyst and Forensicator | VFX and SFX Artist. 
 </div>
 
 <h1 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="25" height="25" />Languages and Tools:</h3>
