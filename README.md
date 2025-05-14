@@ -17,7 +17,6 @@
 </p>
 <h2 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="25" height="25" /> Most of my repositories are private and if there are any specific projects you'd like to see, contact me</h2>
 
-![](https://github-readme-stats.vercel.app/api?username=ananya-addisu&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=ananya-addisu&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ananya-addisu&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
