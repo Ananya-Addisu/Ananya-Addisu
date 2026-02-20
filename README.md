@@ -3,7 +3,7 @@
 </div>
 <div align="center" style="text-style: bold;">
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=ananya-addisu&label=Profile%20views&color=0e75b6&style=flat" alt="Ananya" /> </p>
-<bold>Senior Software Engineer | AI Engineer | Security Analyst and Forensicator | VFX and SFX Artist | FPV Pilot 
+<bold>Senior Software Engineer | AI Engineer | Forensicator | VFX and SFX Artist | FPV Pilot 
 </div>
 
 <h1 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="25" height="25" />Languages and Tools:</h3>
